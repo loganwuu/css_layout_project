@@ -1,12 +1,12 @@
 # The Best City
 
-##### [personal portfolio site](http://loganwuu.github.io/css_layout_project)
+##### A mobile friendly multi-column fluid website using CSS.
 
 #### By Logan Wu
 
 ## Technologies Used
 
-HTML, CSS
+HTML, CSS, SVG
 
 ### Legal
 
