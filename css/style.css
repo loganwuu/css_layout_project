@@ -69,11 +69,15 @@ img {
 	background-color: #3acec2;
 }
 
+.name a:hover {
+	color: #125B84;
+}
+
 /* ---- Layout Containers ---- */
 
 .main-header {
 	padding-top .5em;
-	padding-bottom: .5em;
+	padding-bottom: 0;
 }
 
 .banner,
