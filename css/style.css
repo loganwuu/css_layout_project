@@ -142,10 +142,14 @@ figcaption {
 }
 
 .icon-location {
-  width: 35px;
-  position: absolute;
-  top: -15px;
-  left: 50%;
+	width: 35px;
+	position: absolute;
+	top: -15px;
+	left: 50%;
+}
+
+h4 {
+	margin: 10px auto;
 }
 /* ================================= 
   Media Queries
