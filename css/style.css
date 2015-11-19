@@ -140,6 +140,13 @@ figcaption {
 .author a:hover {
 	color: #3acec2;
 }
+
+.icon-location {
+  width: 35px;
+  position: absolute;
+  top: -15px;
+  left: 50%;
+}
 /* ================================= 
   Media Queries
 ==================================== */
