@@ -4,6 +4,9 @@
 
 #### By Logan Wu
 
+## Description
+A website created mainly for practicing with CSS layout properties such as inline, inline-block, block, and table ```display```, left and right ```float```, ```clearfix```, and ```box-sizing```. It also incorporates media queries to accomodate varying screen sizes from mobile to tablets to desktop — narrowing down from three-column layout (greater than 1024px) to two-column (769px to 1024px) to one column layout (smaller than 768px).
+
 ## Technologies Used
 
 HTML, CSS, SVG
