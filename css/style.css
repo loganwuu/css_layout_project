@@ -143,7 +143,6 @@ img {
 	}
 
 
-
 	/* ---- Float clearfix ---- */
 
 	.clearfix::after {
@@ -151,5 +150,21 @@ img {
 		display: table;
 		clear: both;
 	}
+}
 
+@media (min-width: 1025px) {
+
+	.container {
+		width: 80%;
+		max-width: 1150px;
+	}
+
+	.primary {
+		width: 40%;
+	}
+
+	.secondary,
+	.tertiary {
+		width: 30%;
+	}
 }
