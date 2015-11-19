@@ -9,7 +9,7 @@ A website created mainly for practicing with CSS layout properties such as inlin
 
 ## Technologies Used
 
-HTML, CSS, SVG
+HTML, CSS, SVG, normalize.css
 
 ### Legal
 
