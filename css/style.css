@@ -44,11 +44,18 @@ img {
 
 .name {
 	font-size: 1.25em;
+	margin: 0;
+}
+
+.main-nav{
+	margin-top: 5px;
 }
 
 .name a,
 .main-nav a {
 	text-align: center;
+	display: block;
+	padding: 10px 15px;
 }
 
 .main-nav a {
@@ -63,9 +70,26 @@ img {
 
 /* ---- Layout Containers ---- */
 
+.main-header {
+	padding-top .5em;
+	padding-bottom: .5em;
+}
+
+.banner,
+.main-footer {
+	text-align: center;
+}
+
 .banner {
 	color: #fff;
 	background: #3acec2;
+	padding: 3.2em 0;
+	margin-bottom: 60px;
+}
+
+.col {
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 .main-footer {
@@ -80,11 +104,43 @@ img {
 	width: 190px;
 }
 
+.headline {
+	margin-bottom: 0;
+}
+
 /* ================================= 
   Media Queries
 ==================================== */
 
 @media (min-width: 769px) {
+
+	.container {
+		width: 90%;
+		margin: 0 auto;
+	}
+
+	.name,
+	.col {
+		float: left;
+	}
+
+	.primary,
+	.secondary {
+		width: 50%;
+	}
+
+	.main-nav {
+		float: right;
+	}
+
+	.main-nav li {
+		display: inline-block;
+		margin-left: 15px;
+	}
+
+	.tagline {
+		font-size: 1.4em;
+	}
 
 
 
