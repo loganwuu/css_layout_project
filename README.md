@@ -1,6 +1,6 @@
 # The Best City 
 
-##### A mobile friendly multi-column fluid website using CSS —— [live preview](http://loganwuu.github.io/css_layout_project )
+##### A mobile friendly multi-column fluid website using CSS — [live preview](http://loganwuu.github.io/css_layout_project )
 
 #### By Logan Wu
 
