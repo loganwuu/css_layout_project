@@ -113,6 +113,15 @@ img {
 	margin-bottom: 0;
 }
 
+.headline,
+.tagline,
+.copyright {
+	cursor: default;
+}
+
+.author a:hover {
+	color: #3acec2;
+}
 /* ================================= 
   Media Queries
 ==================================== */
