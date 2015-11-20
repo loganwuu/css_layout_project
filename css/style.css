@@ -171,7 +171,17 @@ h4 {
 	.secondary {
 		width: 50%;
 	}
-
+	
+	.main-header {
+		position: fixed;
+	    	width: 100%;
+	    	top: 0;
+	    	z-index: 1000;
+	  
+	    	background: #fff;
+	    	box-shadow: 0 1px 4px rgba(0,0,0,.4);
+	}
+	  
 	.main-nav {
 		float: right;
 	}
@@ -200,7 +210,7 @@ h4 {
 	    	padding-top: 68px;
 	}
 	
-	  .main-header {
+	.main-header {
 		position: fixed;
 	    	width: 100%;
 	    	top: 0;
