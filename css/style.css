@@ -210,10 +210,6 @@ h4 {
 }
 
 @media (min-width: 1025px) {
-	
-	body {
-	    	padding-top: 68px;
-	}
 
 	.container {
 		width: 80%;
